@@ -8,7 +8,8 @@ A Full Stack developer with over 8 years of experience building scalable web sol
 
 ## Tech Stack
 
-![](https://wakatime.com/share/@cuatro/69b52b50-9918-4ae8-a703-0e63474af2cf.svg)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## GitHub Stats
 
