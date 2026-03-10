@@ -27,4 +27,4 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_COMMIT: "True"
           COMMIT_BY_ME: "True"
-          SYMBOL_VERSION: "3"
+          SYMBOL_VERSION: "2"
