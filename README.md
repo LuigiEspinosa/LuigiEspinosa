@@ -15,7 +15,7 @@ A Full Stack developer with over 8 years of experience building scalable web sol
 
 > 📦 239.4 kB Used in GitHub's Storage 
  > 
-> 🏆 371 Contributions in the Year 2026
+> 🏆 373 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -26,21 +26,21 @@ A Full Stack developer with over 8 years of experience building scalable web sol
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-🌆 Daytime                284 commits         ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-🌃 Evening                394 commits         █████████░░░░░░░░░░░░░░░░   34.29 % 
-🌙 Night                  389 commits         ████████░░░░░░░░░░░░░░░░░   33.86 % 
+🌞 Morning                82 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.12 % 
+🌆 Daytime                286 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.85 % 
+🌃 Evening                394 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.23 % 
+🌙 Night                  389 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.80 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   211 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Tuesday                  127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Wednesday                260 commits         ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-Thursday                 111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Friday                   167 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Saturday                 95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Sunday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Monday                   211 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.33 % 
+Tuesday                  129 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.21 % 
+Wednesday                260 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.59 % 
+Thursday                 111 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.64 % 
+Friday                   167 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.51 % 
+Saturday                 95 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.25 % 
+Sunday                   178 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.46 % 
 ```
 
 
@@ -48,34 +48,34 @@ Sunday                   178 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.94 % 
-Markdown                 2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-C                        1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-YAML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+TypeScript               7 hrs 35 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.94 % 
+Markdown                 2 hrs 54 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.63 % 
+C                        1 hr 43 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.49 % 
+Other                    58 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.88 % 
+YAML                     57 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.83 % 
 
 🐱‍💻 Projects: 
-cuatro-portfolio         13 hrs 13 mins      ████████████████████░░░░░   80.04 % 
-my-studies-code          1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-my-studies               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-fullstack-challenge      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-digital-library          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+cuatro-portfolio         13 hrs 13 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   80.04 % 
+my-studies-code          1 hr 43 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.49 % 
+my-studies               50 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.06 % 
+fullstack-challenge      43 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.37 % 
+digital-library          0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.04 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            █████████████░░░░░░░░░░░░   52.17 % 
-JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-PowerShell               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+TypeScript               12 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.17 % 
+JavaScript               5 repos             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.74 % 
+PowerShell               2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.70 % 
+Shell                    1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.35 % 
+HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.35 % 
 ```
 
 
 
 
- Last Updated on 10/03/2026 19:06:30 UTC
+ Last Updated on 10/03/2026 19:12:36 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Stats
