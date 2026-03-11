@@ -6,7 +6,11 @@ A Full Stack developer with over 8 years of experience building scalable web sol
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LuigiEspinosa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luigi@cuatro.dev)
 
-## Tech Stack
+## Github Stats
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=LuigiEspinosa&theme=tokyonight&hide_border=false" width="500"/>
+</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%206%20mins-blue?style=flat)
@@ -77,12 +81,6 @@ HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 11/03/2026 00:10:54 UTC
 <!--END_SECTION:waka-->
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=LuigiEspinosa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LuigiEspinosa&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiEspinosa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## You can help me by Donating
 
