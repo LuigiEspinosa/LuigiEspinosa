@@ -8,10 +8,6 @@ A Full Stack developer with over 8 years of experience building scalable web sol
 
 ## Github Stats
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LuigiEspinosa&theme=tokyonight&hide_border=false" width="500"/>
-</p>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2039%20mins-blue?style=flat)
 
