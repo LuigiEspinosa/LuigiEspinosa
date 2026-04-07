@@ -4,7 +4,10 @@ I'm Cuatro!
 
 A Full Stack developer with over 8 years of experience building scalable web solutions across diverse industries and international markets.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LuigiEspinosa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luigi@cuatro.dev)
+<p align='center'>
+  <a href="https://linkedin.com/in/LuigiEspinosa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="mailto:luigi@cuatro.dev"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ## Github Stats
 
