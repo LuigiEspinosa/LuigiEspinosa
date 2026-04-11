@@ -12,13 +12,11 @@ A Full Stack developer with over 8 years of experience building scalable web sol
 ## Github Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2045%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 243.4 kB Used in GitHub's Storage 
+> 📦 236.8 kB Used in GitHub's Storage 
  > 
-> 🏆 624 Contributions in the Year 2026
+> 🏆 654 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -39,5 +37,5 @@ HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 10/04/2026 00:18:11 UTC
+ Last Updated on 11/04/2026 00:17:20 UTC
 <!--END_SECTION:waka-->
