@@ -14,16 +14,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-
-          IGNORED_LANGUAGES: "Text Markdown JSON YAML Git Config"
-
-          BLOCKS: "░▒▓█"
-          TIME_RANGE: "last_7_days"
-          LANG_COUNT: 5
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_UPDATED_DATE: false
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_COMMIT: true
+          SHOW_LANGUAGE: true
+          SHOW_SHORT_INFO: true
+          SHOW_LOC_CHART: true
+          SYMBOL_VERSION: 1
+          DEBUG_LOGGING: true
+          BADGE_STYLE: 'for-the-badge'
+          
+          
